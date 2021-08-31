@@ -1,19 +1,12 @@
 # Hi 👋
 
-25, studying Media Informatics at Ulm University.  
+26, studying Media Informatics at Ulm University.  
 
 Interests:  
 - CLI scripts
-- Getting temp-blocked by Cloudflare because I set a variable to `1000` instead of `10`
-- Languages with pointers (`&` and `*` make me feel fancy)
-- Abusing badly secured or badly designed API's with no rate-limit
-- General content crawlers/archivers
+- content crawlers/archivers
 - Graphics programming
-- abusing GPU's with ethically questionable software
-- async programming
-- REST-API's
-- Chrome-Extensions
-- General WebDev stuff (except CSS, fuck CSS!)
+- General WebDev stuff (except CSS)
 - Academic Metadata
 - ffmpeg
 
