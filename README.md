@@ -1,9 +1,9 @@
 Hello,
 
-- my website: https://stefanwintergerst.com
+- my website: https://www.stefanwintergerst.com
 - my projects:
-  - https://estimation-corgi.com
-  - https://shopping-list.dev
+  - https://www.couldveasked.com/
+  - https://www.estimation-corgi.com
   - https://github.com/StefanWin/slideshow
   - https://github.com/StefanWin/go-srv
   - https://github.com/StefanWin/file-utils
