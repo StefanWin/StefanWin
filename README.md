@@ -1,6 +1,6 @@
 Hello,
 
-- my website: https://www.stefanwintergerst.com
+- my website: https://stefanwintergerst.com
 - my projects:
   - https://estimation-corgi.com
   - https://couldveasked.com
